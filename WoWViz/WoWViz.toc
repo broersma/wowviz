@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title : WoWViz
+## Notes: Makes real-time abstract art out of your combat log. |cffff4444[Under Development]
+## Author: Eric Broersma
+WoWViz.lua
